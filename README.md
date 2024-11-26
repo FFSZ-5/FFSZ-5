@@ -3,7 +3,6 @@
  
 </p>
 <div> 
-  <img width=300 height=150 src="border.svg" alt="liufansizhe's GitHub stats" />
 你好哦, 我是  <a href="https://github.com/liufansizhe">liufansizhe</a>，欢迎来访。
 
 **关于我**
