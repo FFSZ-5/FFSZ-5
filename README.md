@@ -3,12 +3,9 @@
  
 </p>
 <style>
-.body{
-    background:url("./border.svg");
-}
 
 </style>
-<div class="body"> 
+<div style="background:url("./border.svg");"> 
 你好哦, 我是  <a href="https://github.com/liufansizhe">liufansizhe</a>，欢迎来访。
 
 **关于我**
