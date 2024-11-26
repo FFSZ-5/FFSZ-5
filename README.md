@@ -2,10 +2,8 @@
   <img width=300 height=150 src="person.svg" alt="liufansizhe's GitHub stats" />
  
 </p>
-<style>
-
-</style>
-<div style="background:url("./border.svg");"> 
+<div> 
+  <img width=300 height=150 src="border.svg" alt="liufansizhe's GitHub stats" />
 你好哦, 我是  <a href="https://github.com/liufansizhe">liufansizhe</a>，欢迎来访。
 
 **关于我**
