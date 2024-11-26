@@ -2,8 +2,14 @@
   <img width=300 height=150 src="person.svg" alt="liufansizhe's GitHub stats" />
  
 </p>
+<style>
+.body{
+    background:url("./border.svg");
+}
 
-你好哦, 我是  [**liufansizhe**](https://github.com/liufansizhe)，欢迎来访
+</style>
+<div class="body"> 
+你好哦, 我是  <a href="https://github.com/liufansizhe">liufansizhe</a>，欢迎来访。
 
 **关于我**
 - 2020年参加工作
@@ -19,6 +25,8 @@
 
 **联系我**
 - 邮件：651828515@qq.com
+</div>
+
 
 <p align="center">
   <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=liufansizhe" alt="liufansizhe's GitHub stats" />
