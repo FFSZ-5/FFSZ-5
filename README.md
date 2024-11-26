@@ -1,3 +1,8 @@
+<p align="center">
+  <img width=300 height=150 src="person.svg" alt="liufansizhe's GitHub stats" />
+ 
+</p>
+
 你好哦, 我是  [**liufansizhe**](https://github.com/liufansizhe)，欢迎来访
 
 **关于我**
